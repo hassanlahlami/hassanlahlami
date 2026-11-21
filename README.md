@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hassan Lahlami: Java / Spring Boot Backend & FinTech API Integration
 
-<!--
-**hassanlahlami/hassanlahlami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer based in Casablanca, Morocco. I build Spring Boot REST APIs and microservices, banking/payment integrations, and React front ends. English, French, Arabic.
 
-Here are some ideas to get you started:
+## Selected projects
+- [refactored-finance-app](https://github.com/hassanlahlami/refactored-finance-app): Java app with Docker, Jenkins pipeline and SonarQube setup
+- [projet-ebanking](https://github.com/hassanlahlami/projet-ebanking): e-banking project (Java, Maven)
+- [SalesProj](https://github.com/hassanlahlami/SalesProj): sales management app (Spring, HTML, Bootstrap, JavaScript)
+- [Optivalue-frontend](https://github.com/hassanlahlami/Optivalue-frontend): Next.js / TypeScript front end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+Java · Spring Boot · Spring Security · REST · React · PostgreSQL · Oracle
+
+Open to part-time freelance work, found on Upwork.
