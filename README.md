@@ -1,6 +1,6 @@
 # Hassan Lahlami
 
-Backend engineer based in Casablanca, Morocco. I build Spring Boot REST APIs and microservices, banking and payment integrations, and React front ends. English, French, Arabic.
+Backend engineer based in Marrakesh, Morocco. I build Spring Boot REST APIs and microservices, banking and payment integrations, and React front ends. English, French, Arabic.
 
 ## Selected projects
 - **Continuum**: audit and continuous-controls platform for banks, built as a modular Spring Boot 3 / Java 21 monolith (role-based access with segregation of duties, tamper-evident audit trail, multi-tenancy, core-banking connectors, PostgreSQL or Oracle, Keycloak sign-in). Start with [continuum-backend](https://github.com/hassanlahlami/continuum-backend).
